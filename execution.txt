@@ -1,0 +1,2 @@
+cd redditmod;
+pm2 start routine.js
